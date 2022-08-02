@@ -1,5 +1,5 @@
 {
-  "node": {
+  "User": {
     "ip_address": { "string": {} }
   }
 }
