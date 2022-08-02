@@ -1,12 +1,17 @@
 {
   "Post": {
-    "title": {
+    "node": {
+      "regexp": "[A-Z][a-z]{5,10}"
+    },
+    "vendor": {
       "string": [
-        "Thor",
-        "Loki"
+        "IOS-XR",
+        "IOS",
+        "Nokia",
+        "Ciena"
       ]
     },
-    "tag": {
+    "version": {
       "string": [
         "one",
         "two",
